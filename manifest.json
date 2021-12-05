@@ -1,0 +1,20 @@
+{
+"name": "Progressive Web Application Demo",
+"short_name": "PWA",
+"start_url": ".",
+"display": "standalone",
+"background_color": "#fff",
+"description": "Progressive Web Application Demo",
+"icons": [
+{
+        "src": "src/images/img/icons-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "src/images/icons-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+]
+}
